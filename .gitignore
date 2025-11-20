@@ -1,0 +1,19 @@
+# ---- Build artifacts ----
+bin/
+obj/
+out/
+build/
+
+# ---- Visual Studio ----
+.vs/
+*.dbmdl
+*.jfm
+*.pdb
+
+# ---- VSCode ----
+.vscode/
+.history/
+
+# ---- Config files ----
+appsettings.*.json
+secrets.json

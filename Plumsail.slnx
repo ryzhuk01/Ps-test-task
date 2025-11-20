@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="BuildingBlocks/BuildingBlocks.Cqrs/BuildingBlocks.Cqrs.csproj" />
+    <Project Path="BuildingBlocks/BuildingBlocks.Persistence/BuildingBlocks.Persistence.csproj" />
+  </Folder>
+  <Project Path="Plumsail.Application/Plumsail.Application.csproj" />
+  <Project Path="Plumsail.Core/Plumsail.Core.csproj" />
+  <Project Path="Plumsail.Infrastructure/Plumsail.Infrastructure.csproj" />
+  <Project Path="Plumsail/Plumsail.Api.csproj" />
+</Solution>
