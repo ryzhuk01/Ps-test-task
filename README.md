@@ -1,5 +1,4 @@
 # Ps Test Task
-# Test Task
 
 This is my submission for the full-stack developer test task. The application is a dynamic form submission system built with **Vue 3** and **ASP.NET Core**.
 
