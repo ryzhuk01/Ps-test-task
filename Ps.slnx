@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="BuildingBlocks/BuildingBlocks.Cqrs/BuildingBlocks.Cqrs.csproj" />
+    <Project Path="BuildingBlocks/BuildingBlocks.Persistence/BuildingBlocks.Persistence.csproj" />
+  </Folder>
+  <Project Path="Ps.Application/Ps.Application.csproj" />
+  <Project Path="Ps.Core/Ps.Core.csproj" />
+  <Project Path="Ps.Infrastructure/Ps.Infrastructure.csproj" />
+  <Project Path="Ps/Ps.Api.csproj" />
+</Solution>
